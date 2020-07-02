@@ -1,0 +1,43 @@
+签名相关文档：https://blog.csdn.net/zwjemperor/article/details/80877203
+索引相关：https://www.cnblogs.com/aspwebchh/p/6652855.html   
+微服务：https://blog.csdn.net/fly_zhyu/article/details/76408158  
+正向代理与反向代理的区别：https://www.cnblogs.com/Anker/p/6056540.html1
+数据库事务：https://www.cnblogs.com/takumicx/p/9998844.html
+快照：https://www.cnblogs.com/qcloud1001/p/9322321.html
+灰度发布：https://blog.csdn.net/justdo2008/article/details/80551247
+jmeter压力测试：https://blog.csdn.net/a656678879/article/details/80053645?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1
+路由器：https://blog.csdn.net/hhthwx/article/details/78617877
+网关：https://blog.csdn.net/qiuzhongweiwei/article/details/80172529
+网段：https://blog.csdn.net/weixin_44248438/article/details/86480003
+数据库：https://blog.csdn.net/xin_ge_cheng_xu/article/details/79663549
+Redis：https://blog.csdn.net/qq_41846563/article/details/81203773
+git操作：https://blog.csdn.net/YJG7D314/article/details/104551896
+分库分表：https://www.cnblogs.com/butterfly100/p/9034281.html
+数据库replace into：https://www.cnblogs.com/c-961900940/p/6197878.html
+postman环境变量：https://blog.csdn.net/qq_36350532/article/details/80193049
+VPN的一些知识：https://www.xinruiyun.cn/zhishiku/3387.html
+数据库视图：https://blog.csdn.net/daaikuaichuan/article/details/84572056
+数据库存储函数：https://blog.csdn.net/yuefeicall/article/details/78803287?depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1&utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromBaidu-1
+jmeter接口测试：https://www.cnblogs.com/hancel/p/10220671.html
+正则表达式教程：https://www.runoob.com/regexp/regexp-tutorial.html
+Python练手小项目：1.https://www.zhihu.com/tardis/landing/360/ans/88744491?query=Python%E9%A1%B9%E7%9B%AE&mid=18bc83b31d16f8e74397fa9e34115a6f&guid=0385BB9A190CE8C8195DE5F696690533.1587025972548
+2.https://github.com/Yixiaohan/show-me-the-code
+Python 伦敦大学课件：https://zhuanlan.zhihu.com/p/21332075    
+					https://mp.weixin.qq.com/s?__biz=MzIxMjM4MjkwMw==&mid=2247483789&idx=1&sn=4c8fd2e76970a5d86c7b7a13c3046a30#rd
+数据库批量插入：https://www.cnblogs.com/myseries/p/11191134.html
+jmeter连接数据库批量插入数据：https://blog.csdn.net/qq_39720249/article/details/84524679?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-1.nonecase
+drop，truncate，delete区别：https://blog.csdn.net/GRAY_KEY/article/details/86742248
+接口幂等性：https://www.cnblogs.com/huaixiaonian/p/9577567.html
+乐观锁和悲观锁：https://www.cnblogs.com/frankyou/p/4667110.html
+RPC：https://www.jianshu.com/p/eb66b0c4113d
+DNS：https://baijiahao.baidu.com/s?id=1668393227924896391&wfr=spider&for=pc
+面试用例设计：https://blog.csdn.net/slforeverlove/article/details/47080279
+
+软件测试的经验和教训书籍在线阅读：https://ishare.iask.sina.com.cn/f/21304855.html
+一些抓包软件的问题：https://cloud.tencent.com/developer/article/1490033
+Vue路由问题；MongoDB；Redis
+功能测试的技能要求：http://qa.tedu.cn/workplace/332168.html
+软件测试bug定位：https://blog.csdn.net/huyanyan08/article/details/79649985
+软件测试报告：https://www.zhihu.com/question/31338636
+PDF压缩：https://smallpdf.com/cn
+语雀：https://www.yuque.com/yuque
